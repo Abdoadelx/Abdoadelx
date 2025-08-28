@@ -96,7 +96,7 @@
 
 <!-- Projects Section -->
 <h2>🚀 My Projects & Learning Goals</h2>
-<p align="center">Here are some of my completed projects and what I'm currently focused on learning.</p>
+<p align="center">I believe in learning by doing. Here is the roadmap of projects I am excited to build to master key backend concepts.</p>
 <table width="100%" align="center" style="border-collapse: collapse;">
   <!-- Project 1 -->
   <tr>
