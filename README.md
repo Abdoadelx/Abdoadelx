@@ -13,7 +13,7 @@
 
 <!-- Social Badges -->
 <div id="badges">
-  <a href="[Your LinkedIn URL]">
+  <a href="https://www.linkedin.com/in/abdelrhman-adel-777ba537b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="[Your Twitter URL]">
